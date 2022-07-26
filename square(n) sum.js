@@ -12,3 +12,7 @@ function squareSum(numbers){
     
     return result
   }
+
+  /*
+  console.log(squareSum([5, 2, 3])) // 38
+  */
